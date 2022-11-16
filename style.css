@@ -91,9 +91,13 @@ p {
 
     display: flex;
     justify-content: space-between;
-
-    cursor: pointer;
   }
+}
+
+.about-page,
+.services-page,
+.form-page {
+  cursor: pointer;
 }
 
 .welcome {
