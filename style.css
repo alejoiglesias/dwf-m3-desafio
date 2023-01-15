@@ -94,10 +94,10 @@ p {
   }
 }
 
-.about-page,
-.services-page,
-.form-page {
-  cursor: pointer;
+.page {
+  color: black;
+
+  text-decoration: none;
 }
 
 .welcome {
